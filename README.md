@@ -1,1 +1,1 @@
-Charity Management System is a desktop based application which will help the charity organization in maintaining all its information and operations. It will also ease donations and appeals of donors and seekers of the organization.
+Charity Management System is a desktop based application developed using Java which will help the charity organization in maintaining all its information and operations. It will also ease donations and appeals of donors and seekers of the organization.
